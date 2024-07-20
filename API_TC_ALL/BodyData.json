@@ -1,0 +1,16 @@
+{
+  "firstname": "Deepak",
+  "lastname": "Channa",
+  "id": "12345",
+  "addressDetails": [
+    {
+      "houseno": "398",
+      "type": "primary address"
+    },
+    {
+      "houseno": "398",
+      "type": "secondary address"
+    }
+  ],
+  "designation": "Project Manager"
+}
